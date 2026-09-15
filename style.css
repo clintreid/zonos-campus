@@ -187,3 +187,5 @@ video{
   width:100%; display:block; border:2px solid var(--ink); border-radius:10px;
   box-shadow:4px 4px 0 var(--line); background:#000;
 }
+
+s.no{text-decoration:line-through; text-decoration-thickness:2px; color:var(--muted)}
