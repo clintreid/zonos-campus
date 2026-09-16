@@ -35,7 +35,7 @@ nav.site{
 }
 nav.site .bar{
   max-width:980px; margin:0 auto; padding:12px 28px;
-  display:flex; align-items:baseline; gap:8px 20px; flex-wrap:wrap;
+  display:flex; align-items:baseline; gap:8px 14px; flex-wrap:wrap;
   font-family:-apple-system,system-ui,sans-serif;
 }
 nav.site .brand{
